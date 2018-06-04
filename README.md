@@ -1,1 +1,1 @@
-# Open-Admin
+OpenAdmin is a project that aims to create an easy to edit server moderation and management script for the ROBLOX platform, in an effort to assist individuals with the creation of their own server administration scripts as opposed to relying on publicly available, potentially unsafe, alternatives.
